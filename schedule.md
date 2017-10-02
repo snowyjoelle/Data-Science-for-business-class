@@ -93,7 +93,7 @@
 ### 12. Big Data
 
 	Read:    To be determined
-	Topics:  Distributed machine learning & big data visualization
+	Topics:  Big data technologies & distributed machine learning
 
 
 ### 13. Final Presentations
