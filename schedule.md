@@ -35,8 +35,9 @@
 
 ### 4. Practical 1
 
-	Topics:  Predict wine quality and online news popularity with linear models
-	Discuss: Over-fitting and under-fitting
+
+	Topics:  EPFL course catalog analysis & clustering
+	Discuss: Text embedding
 
 
 ### 5. Model Evaluation
@@ -57,8 +58,8 @@
 
 ### 7. Practical 2
 
-	Topics:  EPFL course catalog analysis & clustering
-	Discuss: Supervised vs. unsupervised methods; text embedding
+	Topics:  Predict wine quality and online news popularity
+	Discuss: Over-fitting and under-fitting
 
 
 ### 8. Midterm
