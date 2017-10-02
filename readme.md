@@ -25,7 +25,12 @@
 ### Quick-Links
 
 ##### Session 01
-  * [Syllabus](syllabus.pdf)  
+  * [Syllabus](syllabus.pdf)
+  * [Schedule](schedule.md)  
   * [Setup](setup.md)
   * [Slides](slides/slides-01.pdf)
 
+##### Session 02
+  * [Slides](slides/slides-02.pdf)  
+  * [Examples](examples/session-02.ipynb)
+  * [Assignment 1](assignments/assignment-01.ipynb)
